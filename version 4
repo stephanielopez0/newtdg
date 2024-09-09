@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="main.css">
+    <title>Action</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon.ico">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header class="header-actions">
+        <a href="home.html"><img src="images/website-logo.png" class="logo-actions"></a>
+        <div class="menu-btn-actions"></div>
+        <div class="navigation-actions">
+            <div class="navigation-items-actions">
+                <a href="home.html">Home</a>
+                <a href="details.html">Details</a>
+                <a href="actions.html">Actions</a>
+                <a href="involvement.html">Involvement</a>
+            </div>
+        </div>
+    </header>
+
+    <script type="text/javascript" src="javascripts/actions.js"></script>
+    <div class="hero-section-actions">
+        <div class="overlay-actions"></div>
+        <div class="content-actions">
+            <h5>Actions</h5>
+            <p><a href="home.html">Home</a> » Actions</p>
+        </div>
+    </div>
+
+    <main>
+        <section class="intro-actions">
+            <h6>The contiuum</h6>
+            <p>According to The Oxford Wiki (Millett, 2012) , the dissemination of Roman language, traditions, and culture across the empire was known as "Romanization." Romanization had slowly been implemented throughout the succeeding years of the Roman Empire which led to a a feeling of common identity across many groups leading to cultural assimilation. This caused lessened prejudice based on different societal levels, e.g. ethnical regions </p>
+        </section>
+    </main>
+
+    <hr class="o4">
+    
+    <div class="container-actions">
+        <div class="column-actions left-column-actions">
+            <h9>Cocceius Nerva</h9>
+            <p class="description-actions">
+                Emperor Nerva implemented several reforms aimed at addressing the disparities between the rich and the poor, which had long been a source of tension and violence. One of his most notable contributions was the introduction of the Alimenta system, a state-sponsored program that provided financial assistance to poor children across Italy. This initiative not only helped to alleviate poverty but also aimed to bridge the gap between the social classes, reducing the prejudice that stemmed from economic inequality.
+                
+                <br><br>
+                The Alimenta system marked a progressive shift in Roman governance, as it recognized the state's responsibility to care for its vulnerable citizens, something previous regimes had largely ignored. Nerva’s reforms were an early form of social welfare, and they set a precedent for future emperors. 
+            </p>
+        </div>
+        <div class="column middle-column-actions">
+            <img src="images/nerva.png" alt="Octavian Augustus">
+        </div>
+        <div class="column right-column-actions">
+            <div class="leftcolumn-actions">
+                <p>Nerva’s reforms were an early form of social welfare, and they set a precedent for future emperors. As noted by historians, "Nerva's Alimenta system was a groundbreaking initiative that sought to ease the tensions between classes by addressing the root causes of inequality, thus reducing the prejudices that had long plagued Roman society." His policies helped to foster a more inclusive society, though the full impact of his efforts would only be seen in the years following his reign.</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="container-actions">
+        <div class="column-actions left-column-actions">
+            <h9>Trajan</h9>
+            <p class="description-actions">
+
+                Emperor Trajan is widely regarded as one of Rome's most successful and benevolent rulers, known for his substantial contributions to expanding the empire and improving the lives of its citizens. One of his most notable achievements was the vast expansion of the Roman Empire to its greatest territorial extent, including the conquest of Dacia (modern-day Romania), which brought immense wealth to Rome. This wealth allowed Trajan to fund extensive public works and social programs that benefited all classes of Roman society.<br><br>
+                Trajan’s administration focused heavily on infrastructure, with projects like the construction of the Trajan's Forum, Trajan's Market, and Trajan’s Column, which celebrated his military victories. These developments not only enhanced the city’s grandeur but also provided employment opportunities, reducing economic disparities. 
+            </p>
+        </div>
+        <div class="column middle-column-actions">
+            <img src="images/trajan.png" alt="Octavian Augustus">
+        </div>
+        <div class="column right-column-actions">
+            Furthermore, Trajan was known for his just and fair governance, earning him the title "Optimus Princeps" (the best ruler). He was attentive to the needs of the provinces and sought to protect the rights of his subjects, regardless of their social standing. This approach to leadership helped to reduce the social tensions and prejudices that had previously plagued the empire, fostering a more unified and prosperous society.
+        </div>
+    </div>
+    
+
+    <div class="container-actions">
+        <div class="column-actions left-column-actions">
+            <h9>Augustus</h9>
+            <p class="description-actions">
+                Emperor Augustus, who ruled from 27 BC to 14 AD, was instrumental in transforming Roman society through a series of reforms that aimed to stabilize the empire and reduce social prejudice. After the chaos of the Roman Republic's final years, Augustus sought to create a more cohesive and orderly society. One of his key reforms was the restructuring of the Roman class system through the promotion of merit over birth. Augustus introduced a system where social mobility was possible, particularly through service to the state, such as in the military or civil administration. This helped to lessen the rigid class divisions that had caused significant tension and unrest during the Republic.<br><br>
+                Additionally, Augustus focused on moral and legal reforms designed to restore traditional Roman values, which he believed would promote social harmony.
+            </p>
+        </div>
+        <div class="column middle-column-actions">
+            <img src="images/augustus.png" alt="Octavian Augustus">
+        </div>
+        <div class="column right-column-actions">
+            <div class="leftcolumn-actions">
+                <p>The Lex Julia laws, for example, aimed to regulate marriage, adultery, and family life, encouraging stability and respect among citizens of different social classes. By promoting family values and public morality, Augustus sought to create a more unified Roman identity that transcended the old prejudices between the Patricians and Plebeians. His efforts to centralize power and reduce the influence of the old aristocracy also played a crucial role in diminishing the overt class-based prejudices that had long divided Roman society, setting the stage for a more integrated and equitable empire.</p>
+            </div>
+        </div>
+    </div>
+    
+
+</body>
+
+<footer class="footer">
+    <p> &copy; All media used on this site are copyright-free.</p>
+    <div class="icon-group">
+        <a href="mailto:slo23565@my.hghs.school.nz" class="email-button">
+            <i class="fas fa-envelope"></i> 
+        </a>
+        <a href="https://yourwebsite.com" class="email-button">
+            <i class="fas fa-globe"></i>
+        </a>
+    </div>
+</footer>
+</html>
